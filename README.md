@@ -23,3 +23,18 @@ Dans le premier terminal :
 cd server
 npm install
 node index.js
+COMMANDES POUR LANCER LE PROJET :
+---------------------------------
+Terminal 1 (Serveur) :
+cd server
+node index.js
+
+Terminal 2 (Site) :
+cd client
+npm run dev
+
+ACCES ADMIN (POLICE) :
+----------------------
+Lien : http://localhost:3000/admin
+Identifiant : Commissaire
+Mot de passe : 123456
